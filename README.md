@@ -3,7 +3,7 @@
 ***Thanks for visiting my profile***\
 I am Tashreef Muhammad  
 Currently a student studying *Computer Science and Engineering*  
-at *Ahsanullah University of Science and Technology*  
+at **Ahsanullah University of Science and Technology**  
 
 
 #### Currently Learning:
