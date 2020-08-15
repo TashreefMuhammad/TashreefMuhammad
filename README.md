@@ -31,7 +31,7 @@ at *Ahsanullah University of Science and Technology*
 - Toph -> [Dragneel](https://toph.co/u/Dragneel)
 
 #### Other Profiles:
-- Linkedin -> [Tashreef Muhammad](www.linkedin.com/in/tashreefmuhammad)
+- Linkedin -> [Tashreef Muhammad](https://www.linkedin.com/in/tashreefmuhammad/)
 - Google Scholar -> [Tashreef Muhammad](https://scholar.google.com/citations?user=W_IaQKAAAAAJ&hl=en)
 - ResearchGate -> [Tashreef Muhammad](https://www.researchgate.net/profile/Tashreef_Muhammad)
 
