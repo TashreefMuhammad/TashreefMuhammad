@@ -64,6 +64,10 @@ from **Ahsanullah University of Science and Technology**
 
 ## Everyday I aspire to become someone who is better than who I was yesterday
 
+<p align = "center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TashreefMuhammad&theme=monokai" alt="tashreefmuhammad" /></p>
+<p align = "center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TashreefMuhammad&theme=monokai" alt="tashreefmuhammad" /><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TashreefMuhammad&theme=monokai" alt="tashreefmuhammad" /></p>
+<p align = "center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TashreefMuhammad&theme=monokai" alt="tashreefmuhammad" /><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TashreefMuhammad&theme=monokai" alt="tashreefmuhammad" /></p>
+
 <!--
 **TashreefMuhammad/TashreefMuhammad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
