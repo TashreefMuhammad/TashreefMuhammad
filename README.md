@@ -3,7 +3,8 @@
 ***Thanks for visiting my profile***\
 I am Tashreef Muhammad  
 A Bachelor of Science in *Computer Science and Engineering*  
-from **Ahsanullah University of Science and Technology**  
+from **Ahsanullah University of Science and Technology** \
+and currently seeking career in ***Academia***
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tashreefmuhammad&label=Profile%20views&color=0e75b6&style=flat" alt="tashreefmuhammad" /> </p>
 
@@ -33,13 +34,15 @@ from **Ahsanullah University of Science and Technology**
 
 #### Research Publications:
 - [Modified Bat Algorithm with Hybridization of Gaussian Probability and Doppler Effect](https://ieeexplore.ieee.org/abstract/document/9068014)
+- [Transformer-Based Deep Learning Model for Stock Price Prediction: A Case Study on Bangladesh Stock Market](https://arxiv.org/abs/2208.08300)
+- [An Approach of Adjusting the Switch Probability based on Dimension Size: A Case Study for Performance Improvement of the Flower Pollination Algorithm](https://arxiv.org/abs/2208.09699)
 
 #### Profiles in Different Competition Platforms:
+
 - AtCoder -> [Dragneel](https://atcoder.jp/users/Dragneel)
 - CodeChef -> [total_looser](https://www.codechef.com/users/total_looser)
 - Codeforces -> [DragonDragneel](http://codeforces.com/profile/DragonDragneel)
 - Hackerrank -> [Corupted_Dreamer](https://www.hackerrank.com/Corupted_Dreamer?hr_r=1)
-- Kaggle -> [Tashreef Muhammad](https://www.kaggle.com/tashreefmuhammad)
 - LeetCode -> [Tashreef Muhammad](https://leetcode.com/TashreefMuhammad/)
 - LightOJ -> [Unknown](https://lightoj.com/user/dragneel)
 - Online Judge (Previously UVA) -> [Void_Return](https://uhunt.onlinejudge.org/id/908219)
@@ -47,14 +50,33 @@ from **Ahsanullah University of Science and Technology**
 - Timus -> [Dragneel](https://acm.timus.ru/author.aspx?id=274987)
 - Toph -> [Dragneel](https://toph.co/u/Dragneel)
 
-#### Other Profiles:
-- Linkedin -> [Tashreef Muhammad](https://www.linkedin.com/in/tashreefmuhammad/)
-- Google Scholar -> [Tashreef Muhammad](https://scholar.google.com/citations?user=W_IaQKAAAAAJ&hl=en)
-- ResearchGate -> [Tashreef Muhammad](https://www.researchgate.net/profile/Tashreef_Muhammad)
+<hr>
+<h3 align="center">Other Profiles:</h3>
+<p align = "center">
+    <a href="https://commons.datacite.org/orcid.org/0000-0002-9816-2547" target="blank"><img align="center" src="https://commons.datacite.org/favicon.ico" alt="Tashreef Muhammad" height="40" width="40" /></a>&emsp;
+    <a href="https://europepmc.org/authors/0000-0002-9816-2547" target="blank"><img align="center" src="https://europepmc.org/images/favicon.ico" alt="Tashreef Muhammad" height="40" width="40" /></a>&emsp;
+    <a href="https://scholar.google.com/citations?user=W_IaQKAAAAAJ&hl=en" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/2048px-Google_Scholar_logo.svg.png" alt="Tashreef Muhammad" height="40" width="40" /></a>&emsp;
+    <a href="https://profiles.impactstory.org/u/0000-0002-9816-2547" target="blank"><img align="center" src="https://profiles.impactstory.org/static/img/impactstory-logo.png" alt="Tashreef Muhammad" height="40" width="40" /></a>&emsp;
+    <a href="https://orcid.org/my-orcid?orcid=0000-0002-9816-2547" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/512px-ORCID_iD.svg.png?20190308043226" alt="Tashreef Muhammad" height="40" width="40" /></a>&emsp;
+    <a href="https://www.researchgate.net/profile/Tashreef-Muhammad" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/2048px-ResearchGate_icon_SVG.svg.png" alt="Tashreef Muhammad" height="40" width="40" /></a>&emsp;
+    <a href="https://www.semanticscholar.org/author/Tashreef-Muhammad/1642304975" target="blank"><img align="center" src="https://miro.medium.com/max/1400/1*wuOik0-WI97IW86STIR6Gg.png" alt="Tashreef Muhammad" height="40" width="40" /></a>&emsp;
+    <a href="https://www.scopus.com/authid/detail.uri?authorId=57216696139" target="blank"><img align="center" src="https://www.scopus.com/static/proteus-images/favicon.ico?ver=1.0" alt="Tashreef Muhammad" height="40" width="40" /></a>&emsp;
+    <a href="https://www.webofscience.com/wos/author/record/3755482" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/kLVaTwis1K_rhrn0t0pY9rHNOHcBQl1YJHi845-PhaREajRS3-I1FdyAwRedFgcPo1Y" alt="Tashreef Muhammad" height="40" width="40" /></a>&emsp;
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>&emsp;<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>&emsp;<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>&emsp;<a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>&emsp;<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>&emsp;<a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>&emsp;<a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<hr>
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>&emsp;
+<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>&emsp;
+<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>&emsp;
+<a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>&emsp;
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>&emsp;
+<a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>&emsp;
+<a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>&emsp;
+<a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"> <img src="https://seeklogo.com/images/1/net-logo-681E247422-seeklogo.com.png" alt="asp.net" width="40" height="40"/> </a>&emsp;
+</p>
 
+<hr>
 <p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tashreefmuhammad&show_icons=true&locale=en&layout=compact&theme=dracula" alt="tashreefmuhammad" /></p>
 
 <p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tashreefmuhammad&show_icons=true&locale=en&theme=dracula" alt="tashreefmuhammad" /></p>
@@ -62,6 +84,7 @@ from **Ahsanullah University of Science and Technology**
 <p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tashreefmuhammad&&theme=dark" alt="tashreefmuhammad" /></p>
 
 <p align = "center"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=tashreefmuhammad&custom_title=My%20Activity&hide_border=true&theme=github" alt="tashreefmuhammad" /></p>
+<hr>
 
 ## Everyday I aspire to become someone who is better than who I was yesterday
 
