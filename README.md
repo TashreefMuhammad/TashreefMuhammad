@@ -4,7 +4,9 @@
 I am Tashreef Muhammad  
 A Bachelor of Science in *Computer Science and Engineering*  
 from **Ahsanullah University of Science and Technology** \
-and currently seeking career in ***Academia***
+and currently a Lecture of *Computer Science and Engineering* \
+at **Southesat University, Bangladesh**
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tashreefmuhammad&label=Profile%20views&color=0e75b6&style=flat" alt="tashreefmuhammad" /> </p>
 
