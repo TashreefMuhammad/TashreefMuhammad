@@ -35,18 +35,29 @@ at **Southesat University, Bangladesh**
 </p>
 
 #### Research Publications:
+
+## Peer-Reviewed:
+
+# Conference:
 - [Modified Bat Algorithm with Hybridization of Gaussian Probability and Doppler Effect](https://ieeexplore.ieee.org/abstract/document/9068014)
-- [Transformer-Based Deep Learning Model for Stock Price Prediction: A Case Study on Bangladesh Stock Market](https://arxiv.org/abs/2208.08300)
+- [Can Transformer Models Effectively Detect Software Aspects in StackOverflow Discussion?](https://link.springer.com/chapter/10.1007/978-3-031-34622-4_18)
+
+# Journal Article:
+- [Transformer-Based Deep Learning Model for Stock Price Prediction: A Case Study on Bangladesh Stock Market]([https://arxiv.org/abs/2208.08300](https://www.worldscientific.com/doi/10.1142/S146902682350013X))
+
+#Preprints:
 - [An Approach of Adjusting the Switch Probability based on Dimension Size: A Case Study for Performance Improvement of the Flower Pollination Algorithm](https://arxiv.org/abs/2208.09699)
+- [Frequency Distribution of Prime Numbers between an Integer and its Square: A Case Study](https://arxiv.org/abs/2209.12494)
+- [Utilizing Technical Data to Discover Similar Companies in Dhaka Stock Exchange](https://arxiv.org/abs/2301.04455)
 
 #### Profiles in Different Competition Platforms:
 
 - AtCoder -> [Dragneel](https://atcoder.jp/users/Dragneel)
 - CodeChef -> [total_looser](https://www.codechef.com/users/total_looser)
 - Codeforces -> [DragonDragneel](http://codeforces.com/profile/DragonDragneel)
-- Hackerrank -> [Corupted_Dreamer](https://www.hackerrank.com/Corupted_Dreamer?hr_r=1)
+- Hackerrank -> [CorruptedDreamer](https://www.hackerrank.com/CorruptedDreamer)
 - LeetCode -> [Tashreef Muhammad](https://leetcode.com/TashreefMuhammad/)
-- LightOJ -> [Unknown](https://lightoj.com/user/dragneel)
+- LightOJ -> [dragneel](https://lightoj.com/user/dragneel)
 - Online Judge (Previously UVA) -> [Void_Return](https://uhunt.onlinejudge.org/id/908219)
 - SPOJ -> [Dragneel](https://www.spoj.com/users/dragneel/)
 - Timus -> [Dragneel](https://acm.timus.ru/author.aspx?id=274987)
