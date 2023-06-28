@@ -43,7 +43,7 @@ at **Southesat University, Bangladesh**
 - [Can Transformer Models Effectively Detect Software Aspects in StackOverflow Discussion?](https://link.springer.com/chapter/10.1007/978-3-031-34622-4_18)
 
 # Journal Article:
-- [Transformer-Based Deep Learning Model for Stock Price Prediction: A Case Study on Bangladesh Stock Market]([https://arxiv.org/abs/2208.08300](https://www.worldscientific.com/doi/10.1142/S146902682350013X))
+- [Transformer-Based Deep Learning Model for Stock Price Prediction: A Case Study on Bangladesh Stock Market](https://www.worldscientific.com/doi/10.1142/S146902682350013X)
 
 #Preprints:
 - [An Approach of Adjusting the Switch Probability based on Dimension Size: A Case Study for Performance Improvement of the Flower Pollination Algorithm](https://arxiv.org/abs/2208.09699)
