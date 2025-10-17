@@ -29,8 +29,6 @@ Lecturer, CSE @ Southeast University (Dhaka, Bangladesh)
 - **Stock Transformer (DSE)** — Transformer + time2vec, reproducible forecasting  
   ↪ [Paper (DOI)](https://doi.org/10.1142/S146902682350013X) · [Dataset (DOI)](https://data.mendeley.com/datasets/23553sm4tn/3) · [Code](https://github.com/TashreefMuhammad/Transformer-to-predict-stock-market-using-time2vec)
 
-> Tip: Pin these three repos on your profile so they appear beneath this README.
-
 ---
 
 ## Publications (selected)
